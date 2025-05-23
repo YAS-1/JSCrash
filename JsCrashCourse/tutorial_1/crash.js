@@ -162,4 +162,6 @@ console.log(person1);
 console.log(person1.firstName);
 console.log(person1.getBirthYear());
 console.log(person1.getFullName());
+const person2 = new Person('John', 'Doe', '1-15-2001');
+console.log(person2);
 
