@@ -24,7 +24,7 @@ let z;
 //Arrays--------
 const fruits = ['apple', 'banana', 'orange'];
 
-// console.log(fruits[1]);
+console.log(fruits[1]);
 
 fruits[3] = 'grape';
 // console.log(fruits[3]);
@@ -80,7 +80,7 @@ const todos = [
     }
 ];
 
-// console.log(todos);
+console.log(todos);
 
 // console.log(todos[1].text);
 
@@ -164,4 +164,3 @@ console.log(person1.getBirthYear());
 console.log(person1.getFullName());
 const person2 = new Person('John', 'Doe', '1-15-2001');
 console.log(person2);
-
